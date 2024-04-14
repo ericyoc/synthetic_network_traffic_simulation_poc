@@ -51,7 +51,7 @@ The script generates synthetic network traffic for the following wireless protoc
 
 ## Results Table
 
-The script generates a summary table of the simulation results using the `PrettyTable` library. The table displays information about each packet, including:
+The script generates a summary table of the simulation results using the `PrettyTable` library. Only a summary is provided below.
 
 | Traffic Type | Total Packets Sent | Total Packets Received |
 |--------------|---------------------|------------------------|
@@ -60,8 +60,6 @@ The script generates a summary table of the simulation results using the `Pretty
 |       4G     |          15         |          15            |
 |     5G NR    |          15         |          15            |
 |     Total    |          60         |          60            |
-
-The table provides a clear overview of the simulated traffic flow, including the source and destination IP addresses, ports, and the involvement of the proxy and reverse proxy.
 
 
 ## Usefulness
