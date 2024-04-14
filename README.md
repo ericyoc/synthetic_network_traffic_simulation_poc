@@ -49,19 +49,6 @@ The script generates synthetic network traffic for the following wireless protoc
 
 - Similar to 4G LTE, but represents the 5G New Radio protocol
 
-## Results Table
-
-The script generates a summary table of the simulation results using the `PrettyTable` library. Only a summary is provided below.
-
-| Traffic Type | Total Packets Sent | Total Packets Received |
-|--------------|---------------------|------------------------|
-|     802.11   |          15         |          15            |
-|       3G     |          15         |          15            |
-|       4G     |          15         |          15            |
-|     5G NR    |          15         |          15            |
-|     Total    |          60         |          60            |
-
-
 ## Usefulness
 
 This script is useful for:
