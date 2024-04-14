@@ -2,6 +2,10 @@
 
 This Python script demonstrates how to simulate network traffic using the Scapy library and create TensorFlow datasets and data loaders for further AI processing. It generates synthetic network traffic data for different wireless protocols, including 802.11 (Wi-Fi), 3G GSM, 4G LTE, and 5G NR.
 
+## Motivating Article
+Kayisu, A.K.; Kambale, W.V.; Benarbia, T.; Bokoro, P.N.; Kyamakya, K. A Comprehensive Literature Review on Artificial Dataset Generation for Repositioning Challenges in Shared Electric Automated and Connected Mobility. Symmetry 2024, 16, 128. https://doi.org/10.3390/sym16010128. 
+https://www.mdpi.com/2073-8994/16/1/128
+
 ## Features
 
 - Generates synthetic network traffic data for various wireless protocols
