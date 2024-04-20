@@ -59,3 +59,7 @@ This script is useful for:
 - Understanding the structure and flow of network traffic for different wireless protocols
 
 By generating synthetic data, the script provides a controlled environment for testing and developing network analysis tools and AI models. The created TensorFlow datasets and data loaders can be used as input for training and evaluating AI algorithms in network security, anomaly detection, and performance optimization tasks.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
