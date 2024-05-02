@@ -4,6 +4,9 @@ This Python script demonstrates how to simulate network traffic using the Scapy 
 
 ## Motivating Articles
 
+Yocam, E., Gawanmeh, A., Alomari, A. et al. 5G mobile networks: reviewing security control correctness for mischievous activity. SN Appl. Sci. 4, 304 (2022). https://doi.org/10.1007/s42452-022-05193-8
+https://link.springer.com/article/10.1007/s42452-022-05193-8
+
 E. Yocam, "Narrow-band Internet of Things Protocol Standards: Survey of Security and Privacy Control Effectiveness," 2020 International Symposium on Networks, Computers and Communications (ISNCC), Montreal, QC, Canada, 2020, pp. 1-6, doi: 10.1109/ISNCC49221.2020.9297222. https://ieeexplore.ieee.org/abstract/document/9297222
 
 Kayisu, A.K.; Kambale, W.V.; Benarbia, T.; Bokoro, P.N.; Kyamakya, K. A Comprehensive Literature Review on Artificial Dataset Generation for Repositioning Challenges in Shared Electric Automated and Connected Mobility. Symmetry 2024, 16, 128. https://doi.org/10.3390/sym16010128. 
