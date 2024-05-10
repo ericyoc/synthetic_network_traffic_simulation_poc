@@ -2,7 +2,7 @@
 
 This Python script demonstrates how to simulate network traffic using the Scapy library and create TensorFlow datasets and data loaders for further AI processing. It generates synthetic network traffic data for different wireless protocols, including 802.11 (Wi-Fi), 3G GSM, 4G LTE, and 5G NR.
 
-## Motivating Articles
+## Motivating Articles and Related Work
 
 Yocam, E., Gawanmeh, A., Alomari, A. et al. 5G mobile networks: reviewing security control correctness for mischievous activity. SN Appl. Sci. 4, 304 (2022). https://doi.org/10.1007/s42452-022-05193-8
 https://link.springer.com/article/10.1007/s42452-022-05193-8
